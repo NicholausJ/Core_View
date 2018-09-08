@@ -11,7 +11,7 @@
 
 */
 
-body       {background:linear-gradient(-15deg, hsl(200,100%,50%), hsl(200, 0%, 1000%)); 
+body       {background:linear-gradient(145deg, hsl(200,100%,50%), hsl(200, 0%, 1000%)); 
    margin: 0px; font-family: Verdana, Helvetica, sans-serif}
 h1	   {height: 100px; text-align: center; 
             margin: 0px; border-bottom: 1px solid black}
