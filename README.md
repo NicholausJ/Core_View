@@ -1,2 +1,2 @@
 # Core_View
-A informational page for intel's core chipset
+An informational page for Intel's core chipset
