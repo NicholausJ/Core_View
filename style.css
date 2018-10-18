@@ -12,7 +12,7 @@
 */
 
 body       {background:linear-gradient(0deg, hsl(200, 0%, 100%), hsl(200,100%,50%)); 
-            margin: 0px; font-family: Verdana, Helvetica, sans-serif; padding: 10vh 0 0 0;}
+            margin: 0px; font-family: Verdana, Helvetica, sans-serif; padding: 8vh 0 0 0;}
 h1	        {height: 100px; text-align: center; 
             margin: 0px; border-bottom: 1px solid black}
 h2         {color: white; background-color: blue; text-indent: 30px; letter-spacing: 8pt; 
